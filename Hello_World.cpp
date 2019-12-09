@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world! GCI 2019" << endl;
+    cout << "Hello world!" << endl;
     return 0;
 }
